@@ -7,7 +7,7 @@ header{
     color:#B4588c;
 }
 header span{
-    color: black;
+    color: white;
 }
 .nav-item a{
 color: bisque;
@@ -46,4 +46,7 @@ footer p{
 }
 footer p a{
     color: #F8EDED;
+}
+.app{
+    padding: 330px;
 }
