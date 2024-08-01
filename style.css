@@ -1,0 +1,49 @@
+*{
+    font-family: "Playwrite DK Loopet", cursive;
+
+}
+header{
+    background-color: #683266;
+    color:#B4588c;
+}
+header span{
+    color: black;
+}
+.nav-item a{
+color: bisque;
+}
+
+.nav-item a:visited{
+    color: white;
+}
+.nav-item a:hover{
+    color: #ffcbff;
+}
+#nav-buttom{
+    background-color: #B47EB2;
+}
+.icon-square{
+    border-radius: 50px;
+    width: 30px;
+}
+.bi{
+    color: #683266;
+}
+.img_proyecto1{
+    background-image: url('/asets/PINTEREST.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: #B43F3F;
+}
+ 
+footer .icon-footer i{
+    color: #F8EDED;
+}
+footer p{
+    color: #F8EDED;
+}
+footer p a{
+    color: #F8EDED;
+}
