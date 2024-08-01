@@ -19,8 +19,8 @@ Podras encontrarlo aqui:[Portafolio](https://github.com/MAJOGARCIA66?tab=reposit
 * Sobre Mi
 * Habilidades
 * Proyectos
-* Contactos 
 * Testimonios
+* Contactos
 
 ### Captura del proyeto:
 
